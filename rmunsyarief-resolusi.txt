@@ -2,4 +2,4 @@ rmunsyarief resolsi
 - Menjadi Web-development
 - Mempelajari Laravel dan ReactJS
 - Membuat project dengan Laravel atau ReactJS
-- Deploy Aplikasi atau project
+- Membuat video
